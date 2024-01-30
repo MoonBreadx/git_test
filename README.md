@@ -1,4 +1,4 @@
 # git_test
 first repository wowee
 Hello Odin!
-aaa
+test 
